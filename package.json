@@ -1,0 +1,24 @@
+{
+  "name": "arctan.autle",
+  "version": "1.0.0",
+  "description": "Some useful utilities that are missing from JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArctanStudios/Utilities.git"
+  },
+  "keywords": [
+    "utils",
+    "utilities",
+    "math"
+  ],
+  "author": "SirCode",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArctanStudios/Utilities/issues"
+  },
+  "homepage": "https://github.com/ArctanStudios/Utilities#readme"
+}
