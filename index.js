@@ -12,7 +12,7 @@ class Autle {
     }
 
     static lerp(stt, end, fac) {
-        return stt * (1 - fac) + end * fac;
+        return stt * (1 - fac) + end * fac;;
     }
 
     static toDegrees(rad) {
@@ -23,3 +23,5 @@ class Autle {
         return (Math.PI / 180) * deg;
     }
 }
+
+module.exports = Autle;

@@ -1,6 +1,6 @@
 {
   "name": "arctan.autle",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Some useful utilities that are missing from JS",
   "main": "index.js",
   "scripts": {
